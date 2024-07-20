@@ -52,19 +52,19 @@ def go(config: DictConfig):
             ##################
             # Implement here #
             ##################
-           pass
+            pass
 
         if "data_check" in active_steps:
             ##################
             # Implement here #
             ##################
-           pass
+            pass
 
         if "data_split" in active_steps:
             ##################
             # Implement here #
             ##################
-           pass
+            pass
 
         if "train_random_forest" in active_steps:
 
@@ -79,16 +79,14 @@ def go(config: DictConfig):
             ##################
             # Implement here #
             ##################
-
-           pass
+            pass
 
         if "test_regression_model" in active_steps:
 
             ##################
             # Implement here #
             ##################
-
-           pass
+            pass
 
 
 if __name__ == "__main__":
